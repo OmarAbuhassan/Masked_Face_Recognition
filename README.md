@@ -1,9 +1,9 @@
 # Masked_Face_Recognition
 
-## Purpose: Recognize persons while they wearing masks.
+## Purpose: Recognize persons while they wearing masks. 
 
 
-### We used four diffrent techniques: 
+### We used four different techniques:
 1. CNN
 2. Transfer Learning (VGG16)
 3. CNN-RNN
